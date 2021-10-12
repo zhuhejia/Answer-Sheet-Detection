@@ -1,1 +1,2 @@
 # Answer-Sheet-Detection
+使用opencv的形态学处理和霍夫直线检测对答题卡填空题横线进行检测
